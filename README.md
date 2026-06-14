@@ -1,11 +1,6 @@
 # Snowflake-Pricing-Analytics
 
-├── sql/
-│   ├── schema.sql
-│   ├── pricing_analysis.sql
-│
-├── snowflake_architecture.png
-├── README.md
+Analyze supplier pricing trends across vendors and identify negotiation opportunities.
 
 Key insights:
 Data warehouse design
