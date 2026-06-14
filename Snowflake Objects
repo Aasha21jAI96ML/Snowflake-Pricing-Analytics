@@ -1,0 +1,16 @@
+Fact Table:
+FACT_PURCHASES
+
+Columns:
+PurchaseID
+SupplierID
+MaterialID
+Price
+Quantity
+Date
+
+Dimensions:
+DIM_SUPPLIER
+DIM_MATERIAL
+DIM_REGION
+DIM_DATE
