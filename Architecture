@@ -1,0 +1,13 @@
+ERP
+ |
+ v
+Snowflake Staging
+ |
+ v
+Fact Tables
+ |
+ v
+Dimensional Model
+ |
+ v
+Power BI
